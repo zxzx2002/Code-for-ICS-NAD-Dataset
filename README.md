@@ -3,7 +3,8 @@
 ICS-NAD: A Dataset Collected in Multiple Real-World Industrial Control Systems for Network Attack Detection (CAC 2025)    
 A Dataset Collected in Real-World Industrial Control Systems for Network Attack Detection (Scientific Data 2026)
 ## Cite
-https://doi.org/10.1038/s41597-026-06738-x
+https://doi.org/10.1109/CAC67268.2025.11487720 (CAC 2025)    
+https://doi.org/10.1038/s41597-026-06738-x (Scientific Data 2026)
 ## Abstract 
 In the context of Industry 4.0, Industrial Control Systems (ICSs) are undergoing a significant transition from physical isolation to partial openness. While this shift enhances operational efficiency and integration, it also exposes ICSs to increasing network attacks. Effective intrusion detection methods rely on high-quality ICS datasets, yet existing options remain limited in scope, diversity, and realism. To address this gap, we introduce ICS-NAD, a dataset collected in real-world ICS scenarios with three well-known ICS brands. It contains two attack traffic sample patterns and covers 20 common ICS attack types. Through feature extraction and labeling, the ICS-NAD dataset provides 60 features with complete labels. We validate its utility using 10 machine learning and deep learning classification models. The dataset comprises 245.96 GB data files, including raw ICS network traffic (in PCAP format) and extracted features with labels (in CSV format). It is publicly available on the website to support ICS network attack detection research in academic and engineering contexts.
 ## Source Code Usage
